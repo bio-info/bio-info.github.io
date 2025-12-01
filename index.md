@@ -21,6 +21,7 @@ Welcome! I'm a researcher focused on environmental monitoring, IoT sensors, and 
 ## 📚 What You'll Find Here
 
 - **[Documentation](/docs/)**: Technical guides, setup instructions, and tutorials
+- **[Step-by-Step Tutorials](/docs/tutorials.html)**: Detailed Instructables guides (62K+ views)
 - **[Code Examples](/code/)**: Reusable Arduino, Python, and IoT code snippets
 - **[Projects](/docs/projects.html)**: Overview of my open-source projects
 - **[Data Resources](/data/)**: Datasets and analysis examples
@@ -39,16 +40,33 @@ Jupyter notebooks and Python tools for analyzing PM2.5 data from low-cost sensor
 ESP8266-based system with MQTT, SQL database, and web interface for environmental monitoring.
 - [View Repository](https://github.com/bio-info/weatherstation)
 
+## 📝 Instructables Tutorials
+
+Published **7 comprehensive build guides** with **62,375+ total views**!
+
+**Most Popular:**
+- [PIR with ESP8266 and MQTT](https://www.instructables.com/PIR-With-ESP8266-and-MQTT/) - 17K views
+- [Temperature/pH/DO Data Logger](https://www.instructables.com/How-to-Make-a-Data-Logger-for-the-Temperature-PH/) - 11K views
+- [Raspberry Pi Data Logger](https://www.instructables.com/Set-Up-From-Scratch-a-Raspberry-Pi-to-Log-Data-Fr/) - 11K views
+
+[View All Tutorials](/docs/tutorials.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 }
+
+---
+
 ## 🤝 About
 
 Former R&D researcher at PAMAir.org, based in Hanoi, Vietnam. Passionate about open-source environmental monitoring tools and making sensor technology more accessible.
+
+**Profiles:**
+- 🐙 [GitHub (@bio-info)](https://github.com/bio-info) - 36 repos, 52+ stars
+- 📚 [Instructables (binova)](https://www.instructables.com/member/binova/instructables/) - 7 tutorials, 62K+ views
 
 ---
 
 ## Quick Links
 
-[View All Projects](/docs/projects.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Browse Documentation](/docs/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View Tutorials](/docs/tutorials.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Browse Projects](/docs/projects.html){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [GitHub Profile](https://github.com/bio-info){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
 
 

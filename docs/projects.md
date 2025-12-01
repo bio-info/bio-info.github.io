@@ -27,6 +27,11 @@ Arduino-based monitoring and control system for microalgae cultivation in biorea
 - 📊 [Python Simulation](https://github.com/bio-info/advanced-bioreactor/blob/main/simulation.py)
 - 📖 [Documentation](https://github.com/bio-info/advanced-bioreactor#readme)
 
+**📚 Instructables Tutorials:**
+- 📝 [Data Logger (Temperature, pH, DO)](https://www.instructables.com/How-to-Make-a-Data-Logger-for-the-Temperature-PH/) - 11K+ views
+- 📝 [Turbidity Monitor for Microalgae](https://www.instructables.com/A-Simple-Turbidity-Monitor-and-Control-System-for/) - 5.5K+ views
+- 📝 [LED Panel Control System](https://www.instructables.com/Control-High-powered-LED-Panel-by-Arduino-Real-Tim/) - 4.2K+ views
+
 **Technologies:** Arduino, C++, Python, Data Logging
 
 **Stars:** ⭐ 6 | **Forks:** 🍴 1
@@ -72,6 +77,9 @@ IoT-based weather monitoring system using Arduino and ESP8266.
 - 🌐 [Web Interface](https://github.com/bio-info/weatherstation/tree/main/web)
 - 📖 [Setup Instructions](https://github.com/bio-info/weatherstation#readme)
 
+**📚 Instructables Tutorial:**
+- 📝 [Weather Station with Deep Sleep & Graphing](https://www.instructables.com/Weather-Station-ESP8266-With-Deep-Sleep-SQL-Graph/) - 5.3K+ views
+
 **Technologies:** Arduino, ESP8266, MQTT, SQL, C++
 
 **Stars:** ⭐ 2 | **Forks:** 🍴 1
@@ -95,9 +103,42 @@ A collection of Arduino projects for various IoT applications and home automatio
 - 🔍 [Motion Sensor](https://github.com/bio-info/arduinos/blob/main/motion_sensor)
 - ⚡ [Power Meter](https://github.com/bio-info/arduinos/blob/main/power_meter)
 
+**📚 Instructables Tutorials:**
+- 📝 [PIR with ESP8266 and MQTT](https://www.instructables.com/PIR-With-ESP8266-and-MQTT/) - 17K+ views (Most Popular!)
+- 📝 [Flashlight to Motion Sensor](https://www.instructables.com/From-Flashlight-to-Motion-Sensor-With-ESP8266-and/) - 6.1K+ views
+- 📝 [Raspberry Pi Data Logger](https://www.instructables.com/Set-Up-From-Scratch-a-Raspberry-Pi-to-Log-Data-Fr/) - 11K+ views
+
 **Technologies:** Arduino, ATmega, ESP8266, C++
 
 **Stars:** ⭐ 6 | **Forks:** 🍴 3
+
+---
+
+## 📚 Detailed Build Guides on Instructables
+
+Looking for step-by-step tutorials? All projects have comprehensive guides on Instructables!
+
+**Profile:** [binova on Instructables](https://www.instructables.com/member/binova/instructables/)
+
+### 📊 Tutorial Statistics
+- **Total Views:** 62,375+
+- **Total Tutorials:** 7
+- **Followers:** 19
+- **Total Favorites:** 163
+
+### 🏆 Most Popular Tutorials
+1. **PIR with ESP8266 and MQTT** - 17,000+ views
+2. **Data Logger (Temp, pH, DO)** - 11,000+ views
+3. **Raspberry Pi Data Logger** - 11,000+ views
+
+**[View All Tutorials →](/docs/tutorials.html)**
+
+Each tutorial includes:
+- ✅ Complete parts list with sources
+- ✅ Step-by-step instructions with photos
+- ✅ Downloadable code and schematics
+- ✅ Troubleshooting tips
+- ✅ Community Q&A support
 
 ---
 
